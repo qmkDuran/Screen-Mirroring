@@ -1,14 +1,13 @@
 ## Screenshots
+![Screen Mirroring](https://user-images.githubusercontent.com/84324251/143720194-781f60a8-f395-466c-a958-8f10e1d9cdff.png)
 
 
-
-
-# E-Commerce Site
+# Screen Mirroring
 
 This website is a front end project that that incorporates HTML, CSS and Javascript. 
-On the website the user is able to click on the Joke Generator button and hear a robotic
-voice tell a developer joke. 
-
+On this website the user is able to select a screen they want to mirror when they load the site.
+Once they have selected the screen the user is able to press the large start button, this
+will create a small screen that the user is able to move anywhere on their screen and resize. 
 
 ## 🛠 Skills
 - HTML
@@ -18,7 +17,7 @@ voice tell a developer joke.
 
 ## Link
 
-[Joke Generator](https://qmkduran.github.io/Joke-Generator/)
+[Screen Mirroring](https://qmkduran.github.io/Screen-Mirroring/)
 ## Authors
 
 - [@qmkDuran](https://github.com/qmkDuran)
@@ -27,7 +26,4 @@ voice tell a developer joke.
 ## Lessons Learned
 
 - How to use HTML, CSS and JavaScipt.
-- How to pull jokes from an API.
-- How to incorporate a speech api to read text from the joke api.
-- How to apply a robot gif as my websites background. 
-- How to style a button that will match the colors of the gif background. 
+- How to use the Media Stream API and Screen Capturing API. 
